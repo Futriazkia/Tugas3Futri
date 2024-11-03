@@ -1,0 +1,47 @@
+*{
+    font-family: MV Boli;
+}
+
+h1, h2, h5{
+    color: brown;
+}
+body {
+    background-image: url("images/taman-literasi-di-malam-hari_169.jpeg");
+    background-position: center;
+} 
+h1 {
+    text-align: center;
+    background-color: beige;
+
+}
+p {
+    text-align: justify;
+    font-size: 15px;
+    color: brown;
+    float: left;
+
+}
+h2 {
+    text-align: center;
+    background-color: beige;
+}
+h5 {
+    text-align: justify;
+}
+div {
+    padding: 10px;
+    height: 350px;
+    background-color: rgba(300, 300, 300, 0.7);
+    margin: 100px;
+}
+.border {
+    border-style: dashed;
+    border-color: brown;
+    border-radius: 5px;
+}
+img {
+    width: 150px;
+    height: 150px;
+    margin: 5px;
+    float: left;
+}
